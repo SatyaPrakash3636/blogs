@@ -1,0 +1,2 @@
+run this command to join docker swarm
+docker swarm join --token SWMTKN-1-1olsml3zyu6gafaoidhl72mof0tp620eydbz4luz6v5je5lr1t-4gzyr71uoi0g1nf2pyln47huh 54.82.95.209:2377
